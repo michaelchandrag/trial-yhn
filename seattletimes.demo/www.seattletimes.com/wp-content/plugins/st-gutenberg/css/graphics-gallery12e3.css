@@ -1,0 +1,73 @@
+.graphics-gallery-container .graphics-gallery__headline {
+  line-height: 25px;
+  margin-bottom: 5px;
+  max-width: 636px;
+  text-align: center;
+}
+
+.graphics-gallery-container .graphics-gallery__subhead {
+  font-size: 18px;
+  line-height: 22px;
+  max-width: 636px;
+  text-align: left;
+}
+
+@media (max-width: 767px) {
+  .graphics-gallery-container.full-width-embed .graphics-gallery__headline,
+  .graphics-gallery-container.full-width-embed .graphics-gallery__subhead {
+    padding: 0 10px;
+  }
+}
+
+.graphics-gallery-container .graphics-gallery__subhead p:last-child {
+  margin-bottom: 0;
+}
+
+.graphics-gallery-container .graphics-gallery__footer {
+  color: #70757C;
+}
+
+.graphics-gallery-container.full-width-embed .graphics-gallery__footer {
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
+/* Override some stylings of the inner blocks */
+.wp-block-st-custom-blocks-graphics-gallery .responsive-image-embed,
+.wp-block-st-custom-blocks-graphics-gallery responsive-frame,
+.wp-block-st-custom-blocks-graphics-gallery .st-image-gallery {
+  width: 100%;
+}
+
+@media (min-width: 1200px) {
+  .graphics-gallery-container.large-embed .wp-block-st-custom-blocks-graphics-gallery .responsive-image-embed {
+    width: 1200px;
+  }
+}
+
+.wp-block-st-custom-blocks-graphics-gallery .st-image-gallery,
+.wp-block-st-custom-blocks-graphics-gallery .st-image-gallery figure {
+  margin-bottom: 0!important;
+  margin-top: 0!important;
+}
+
+.wp-block-st-custom-blocks-graphics-gallery .embed-container {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.graphics-gallery-container.full-width-embed .wp-block-st-custom-blocks-graphics-gallery .responsive-image-embed,
+.graphics-gallery-container.full-width-embed .wp-block-st-custom-blocks-graphics-gallery .st-image-gallery {
+  width: calc(100% - 14px);
+}
+
+.graphics-gallery-container.full-width-embed .wp-block-st-custom-blocks-graphics-gallery .embed-container {
+  margin: 0 12px;
+  padding: 0;
+  width: calc(100% - 22px);
+}
+
+.graphics-gallery__captions-disabled .st-image-gallery figcaption {
+  display: none;
+}

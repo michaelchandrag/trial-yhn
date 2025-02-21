@@ -1,0 +1,13 @@
+.related-article-thumbnail img {
+  width: 100px;
+}
+
+.related-article-links-list-item::marker {
+  color: #70757c;
+}
+
+.fact-box-label,
+.related-article-label,
+.related-article-link-label {
+  letter-spacing: 0.05em;
+}

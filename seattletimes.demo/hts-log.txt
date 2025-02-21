@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 21 Feb 2025 15:16:11 at https://www.seattletimes.com/sports/uw-huskies/hansen-throws-no-hitter-for-uw-softball/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -*ad* -*banner* -*popup* -*tracker* -*doubleclick.net/* -*googlesyndication.com/* -*adsense/* -*advertising/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826" -%F  -%l "en, *" https://www.seattletimes.com/sports/uw-huskies/hansen-throws-no-hitter-for-uw-softball/ -O1 "D:\SERVER\xampp-8-2025\htdocs\clone_site\seattle" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -*ad* -*banner* -*popup* -*tracker* -*doubleclick.net/* -*googlesyndication.com/* -*adsense/* -*advertising/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:16:13	Warning: 	Unable to test https://www.seattletimes.com/apple-touch-icon.png (loop to same filename)
+15:16:13	Warning: 	link is probably looping, type unknown, aborting: https://www.seattletimes.com/apple-touch-icon.png
+15:16:39	Error: 	"Accepted" (202) at link https://secure.seattletimes.com/accountcenter/getsubscribersession.js?method=ajax&session= (from https://www.seattletimes.com/sports/uw-huskies/hansen-throws-no-hitter-for-uw-softball/)
+15:16:39	Error: 	"Accepted" (202) at link https://secure.seattletimes.com/accountcenter/coraltoken.js?token= (from https://www.seattletimes.com/sports/uw-huskies/hansen-throws-no-hitter-for-uw-softball/)
+15:16:39	Error: 	"Accepted" (202) at link https://secure.seattletimes.com/accountcenter/soa.js?method=ajax&session= (from https://www.seattletimes.com/sports/uw-huskies/hansen-throws-no-hitter-for-uw-softball/)
+15:16:53	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://www.seattletimes.com/sports/uw-huskies/hansen-throws-no-hitter-for-uw-softball/)
+15:16:55	Error: 	"Not Found" (404) at link https://www.seattletimes.com/sports/uw-huskies/hansen-throws-no-hitter-for-uw-softball/GET/ (from static.chartbeat.com/js/chartbeat_mab.js)
+15:16:55	Error: 	"Not Found" (404) at link https://www.seattletimes.com/sports/uw-huskies/hansen-throws-no-hitter-for-uw-softball/$&/ (from https://www.seattletimes.com/wp-content/plugins/st-spruce-deuce/dist/st-spruce-app.js?ver=1739903237)
+15:16:55	Error: 	"Not Found" (404) at link https://www.seattletimes.com/sports/uw-huskies/hansen-throws-no-hitter-for-uw-softball/Safari/ (from https://www.seattletimes.com/wp-content/themes/st_refresh/js/site-wide/dist/st-blocking-bundle.js?ver=1739903192)
+15:16:55	Error: 	"Not Found" (404) at link https://www.seattletimes.com/wp-content/themes/st_refresh/img/st-logo.png (from https://www.seattletimes.com/wp-content/themes/st_refresh/css/styles.min.css?ver=1739903192)
+15:16:55	Error: 	"Not Found" (404) at link https://www.seattletimes.com/sports/uw-huskies/hansen-throws-no-hitter-for-uw-softball/events/events.js (from https://www.seattletimes.com/wp-content/themes/st_refresh/js/bundle.min.js?ver=1739903192)
+15:16:55	Error: 	"Not Found" (404) at link https://www.seattletimes.com/sports/uw-huskies/hansen-throws-no-hitter-for-uw-softball/helpers/helpers.js (from https://www.seattletimes.com/wp-content/themes/st_refresh/js/bundle.min.js?ver=1739903192)
+15:16:55	Error: 	"Not Found" (404) at link https://www.seattletimes.com/sports/uw-huskies/hansen-throws-no-hitter-for-uw-softball/navigation/views/body.js (from https://www.seattletimes.com/wp-content/themes/st_refresh/js/bundle.min.js?ver=1739903192)
+15:16:55	Error: 	"Not Found" (404) at link https://www.seattletimes.com/sports/uw-huskies/hansen-throws-no-hitter-for-uw-softball/navigation/views/container.js (from https://www.seattletimes.com/wp-content/themes/st_refresh/js/bundle.min.js?ver=1739903192)
+15:16:55	Error: 	"Not Found" (404) at link https://www.seattletimes.com/sports/uw-huskies/hansen-throws-no-hitter-for-uw-softball/article-takeover/views/article-takeover.js (from https://www.seattletimes.com/wp-content/themes/st_refresh/js/bundle.min.js?ver=1739903192)
+15:16:55	Error: 	"Not Found" (404) at link https://www.seattletimes.com/sports/uw-huskies/hansen-throws-no-hitter-for-uw-softball/gtm/models/gtm-model.js (from https://www.seattletimes.com/wp-content/themes/st_refresh/js/bundle.min.js?ver=1739903192)
+15:16:55	Error: 	"Not Found" (404) at link https://www.seattletimes.com/sports/uw-huskies/hansen-throws-no-hitter-for-uw-softball/gtm/views/gtm-view.js (from https://www.seattletimes.com/wp-content/themes/st_refresh/js/bundle.min.js?ver=1739903192)
+15:16:55	Error: 	"Not Found" (404) at link https://www.seattletimes.com/sports/events/events.js (from https://www.seattletimes.com/wp-content/themes/st_refresh/js/bundle.min.js?ver=1739903192)
+15:16:55	Error: 	"Not Found" (404) at link https://www.seattletimes.com/sports/helpers/helpers.js (from https://www.seattletimes.com/wp-content/themes/st_refresh/js/bundle.min.js?ver=1739903192)
+15:16:57	Error: 	"Not Found" (404) at link static.chartbeat.com/js/inpage.css (from https://static.chartbeat.com/js/inpage.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 46 seconds : 64 links scanned, 45 files written (4133673 bytes overall) [1910827 bytes received at 41539 bytes/sec], 4661588 bytes transferred using HTTP compression in 48 files, ratio 25%, 2.4 requests per connection
+(18 errors, 2 warnings, 0 messages)
